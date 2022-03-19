@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-j&xx@04j#ue=0-+-+0ej&dgyg0=4r41xumld&c22iy2devj_mp
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['habr_parser']
 
 
 # Application definition
